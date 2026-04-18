@@ -1,0 +1,23 @@
+# ตัวโฟลเดอร์หลักของ Unreal Engine ที่ "ห้าม" เอาขึ้น Git เด็ดขาด
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# ไฟล์ระบบของ Visual Studio / IDE (กรณีมีการเขียน C++ ร่วมด้วย)
+.vs/
+*.sln
+*.suo
+*.db
+*.opendb
+*.VC.db
+
+# ไฟล์ขยะที่สร้างโดยระบบปฏิบัติการ Windows / Mac
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
