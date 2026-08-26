@@ -18,6 +18,10 @@
 		{
 			"Name": "VaRest",
 			"Enabled": true
+		},
+		{
+			"Name": "VaRestX",
+			"Enabled": true
 		}
 	]
 }
